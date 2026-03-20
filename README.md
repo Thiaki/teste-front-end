@@ -25,6 +25,13 @@ yarn dev
 ```
 Isso iniciará o servidor de desenvolvimento. Abra http://localhost:5173 no seu navegador para visualizar o projeto.
 
+
+## Rodar o Projeto
+O projeto está hospedado na Vercel. Você pode acessá-lo através do seguinte link:
+
+https://teste-front-end-coral.vercel.app/
+
+
 ## Tecnologias Utilizadas
 Principais tecnologias e ferramentas utilizadas no projeto:
 
